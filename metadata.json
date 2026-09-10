@@ -1,0 +1,6 @@
+{
+  "name": "AI Guard Middleware",
+  "description": "Lightweight 3-layer Node.js security middleware protecting AI applications against prompt injection, token cost drains, and response data leakage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
